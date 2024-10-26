@@ -21,7 +21,7 @@ This project implements a comprehensive firewall for the Math/BC server, address
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/mathbc-server-firewall.git
+   git clone https://github.com/RBalajisrinath/Mini-Project--Math-BC-Server-Firewall.git
    cd mathbc-server-firewall
    ```
 
